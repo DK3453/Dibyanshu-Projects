@@ -1,2 +1,2 @@
 # Dibyanshu-Projects
-Download Any Project Folder to view Project 
+Download Any Project file to view it and make changes as you wish 
