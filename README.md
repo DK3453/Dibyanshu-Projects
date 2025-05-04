@@ -3,11 +3,11 @@ Download Any Project file to view it and make changes as you wish
 
 # Screenshots
 
-Excel Dashboard Page1:
+Excel Dashboard Page 1:
 
 ![Excel sales pg1](https://github.com/user-attachments/assets/9e24a96a-a12e-4c2b-ac63-be043ac16164)
 
-PowerBI Dashboard Page1:
+PowerBI Dashboard Page 1:
 
 ![HR Dashboard pg1](https://github.com/user-attachments/assets/3d488531-3dfa-4e03-b0c6-f0700d313733)
 
