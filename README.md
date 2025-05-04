@@ -1,3 +1,2 @@
 # Dibyanshu-Projects
-Various projects as mentioned in Resume
-Download Any Project Folder to view Projects
+Download Any Project Folder to view Project 
