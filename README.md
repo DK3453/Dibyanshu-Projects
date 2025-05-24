@@ -9,7 +9,8 @@ Excel Dashboard Page 1:
 
 PowerBI Dashboard Page 1:
 
-![HR Dashboard pg1](https://github.com/user-attachments/assets/3d488531-3dfa-4e03-b0c6-f0700d313733)
+![HR Dashboard pg1](https://github.com/user-attachments/assets/98d0860b-1295-4ae9-9ed4-19c9a6b4c4ff)
+
 
 Python+MySQL connection in vscode:
 
